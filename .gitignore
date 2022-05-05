@@ -7,4 +7,7 @@
 /SamuraiAPp/SamuraiApp.UI/obj
 /.vs
 /SamuraiAPp/.vs/SamuraiAPp/DesignTimeBuild
-/SamuraiAPp/.vs/SamuraiAPp/v17/.suo
+/SamuraiAPp/SamuraiApp.Data/bin
+/SamuraiAPp/SamuraiApp.Domain/bin
+/SamuraiAPp/SamuraiApp.UI/bin
+/SamuraiAPp/.vs/SamuraiAPp/v17
