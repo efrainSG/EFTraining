@@ -16,8 +16,8 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: Restore dependencies
-      run: dotnet restore ./SamuraiAPp.sln
+      run: dotnet restore ./SamuraiAPp/SamuraiAPp.sln
     - name: Build
-      run: dotnet build --no-restore ./SamuraiAPp.sln
+      run: dotnet build --no-restore ./SamuraiAPp/SamuraiAPp.sln
     - name: Test
-      run: dotnet test --no-build --verbosity normal ./SamuraiAPp.sln
+      run: dotnet test --no-build --verbosity normal ./SamuraiAPp/SamuraiAPp.sln
