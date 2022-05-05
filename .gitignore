@@ -2,10 +2,9 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/SamuraiAPp/.vs/SamuraiAPp/DesignTimeBuild
-/SamuraiAPp/.vs/SamuraiAPp/v17
 /SamuraiAPp/SamuraiApp.Data/obj
 /SamuraiAPp/SamuraiApp.Domain/obj
-/SamuraiAPp/SamuraiApp.UI/obj/Debug/net5.0
 /SamuraiAPp/SamuraiApp.UI/obj
+/.vs
+/SamuraiAPp/.vs/SamuraiAPp/DesignTimeBuild
+/SamuraiAPp/.vs/SamuraiAPp/v17/.suo
