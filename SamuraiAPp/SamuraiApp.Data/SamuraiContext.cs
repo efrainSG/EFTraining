@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SamuraiApp.Domain;
-using System;
 
 namespace SamuraiApp.Data
 {
@@ -15,4 +14,3 @@ namespace SamuraiApp.Data
         }
     }
 }
-2
