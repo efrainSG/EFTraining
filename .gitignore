@@ -11,3 +11,5 @@
 /SamuraiAPp/SamuraiApp.Domain/bin
 /SamuraiAPp/SamuraiApp.UI/bin
 /SamuraiAPp/.vs/SamuraiAPp/v17
+/SamuraiAPp/SamuraiApp.Tests/bin/Debug/net5.0
+/SamuraiAPp/SamuraiApp.Tests/obj
